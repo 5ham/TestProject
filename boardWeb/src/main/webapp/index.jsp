@@ -30,6 +30,7 @@
 <body>
 	<%@ include file="header.jsp" %>
 	<section>
+		testtest
 		<a href="board/list.jsp">게시판으로 이동</a> |
 		<a href="javascript:goMember();">회원게시판으로 이동</a> |
 		<%
